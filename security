@@ -1,0 +1,72 @@
+
+      <h1 id="security" class="title"><a name="security" class="anchor" href="#security">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Security</h1>
+    
+      <h2 id="features" class="title"><a name="features" class="anchor" href="#features">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Features</h2>
+    
+<p>We believe in a secure web, made by secure applications.</p>
+
+<p>We offer advanced security features to protect against common attacks.
+Hanami implements synchronized tokens against Cross-Site Request Forgery (CSRF), automatic HTML escaping to prevent Cross-site Scripting (XSS), a clear database API to avoid SQL Injection, Content-Security-Policy to stop untrusted assets to be loaded by you customer&#39;s browser, and other features.</p>
+
+<p>We actively ship security improvements and assess for new vulnerabilities.</p>
+
+      <h2 id="reporting-a-vulnerability" class="title"><a name="reporting-a-vulnerability" class="anchor" href="#reporting-a-vulnerability">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Reporting a vulnerability</h2>
+    
+<p>If you find a vulnerability, please be responsible and do not share it publicly. Instead, please contact us:</p>
+
+<ol>
+<li>Email to <a href="mailto:security@hanamirb.org">security@hanamirb.org</a>, you should receive a reply within 24 hours</li>
+<li>If you don&#39;t get an answer, please contact privately <a href="mailto:me@lucaguidi.com">Luca Guidi</a> or another member of the <a href="/team">core team</a></li>
+<li>If none of those worked, please announce on the <a href="http://chat.hanamirb.org">chat</a> that you have a security problem to report. Please do <strong>NOT</strong> share the problem in chat, as it&#39;s a public channel</li>
+</ol>
+
+      <h2 id="disclosure-policy" class="title"><a name="disclosure-policy" class="anchor" href="#disclosure-policy">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Disclosure policy</h2>
+    
+<p>Once we&#39;ll have received the security report, we&#39;ll proceed like this:</p>
+
+<ol>
+<li>Once the security report is received, we&#39;ll assign it to a primary contact. This person is responsible for the entire process</li>
+<li>When the problem is confirmed, we&#39;ll determine the supported versions affected and audit the code to find similar vulnerabilities</li>
+<li>We&#39;ll write patches, but not share them over our <a href="https://github.com/hanami">GitHub organization</a> until the end of the process</li>
+<li>We&#39;ll contact the vulnerability reporter again, to double-check that the patches fix the problem</li>
+<li>We&#39;ll obtain a CVE from MITRE</li>
+<li>We&#39;ll apply the patches to our codebase over GitHub, release the gems over Rubygems, and write a public announcement.</li>
+</ol>
+
+<p>We&#39;ll try our best to handle the process in a timely manner, please be patient.
+We are dedicated to building and maintaining a secure framework, but we&#39;re all volunteers.</p>
+
+      <h2 id="anatomy-of-an-announcement" class="title"><a name="anatomy-of-an-announcement" class="anchor" href="#anatomy-of-an-announcement">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Anatomy of an announcement</h2>
+    
+<p>The security announcement will contain:</p>
+
+<ul>
+<li>A detailed description of the problem</li>
+<li>The CVE ID (if present)</li>
+<li>The steps that we&#39;ll take to prevent similar problems</li>
+<li>The affected/non-affected versions</li>
+<li>The released versions</li>
+<li>The patches as downloadable files</li>
+</ul>
+
+      <h2 id="supported-versions" class="title"><a name="supported-versions" class="anchor" href="#supported-versions">      <svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16">
+      <path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path>
+      </svg>
+</a>Supported versions</h2>
+    
+<p>We currently support the <code>1.x</code> series of Hanami.</p>
